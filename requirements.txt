@@ -1,0 +1,30 @@
+# LangChain
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-huggingface==0.3.1
+langchain-pinecone==0.2.11
+langchain-text-splitters==0.3.9
+
+# Vector Database
+pinecone==7.3.0
+
+# Embeddings & Transformers
+sentence-transformers==5.0.0
+transformers==4.55.4
+torch
+accelerate==1.10.0
+
+# PDF Processing
+pypdf==6.0.0
+
+# Web Framework
+Flask==3.1.2
+
+# Environment Variables
+python-dotenv==1.1.1
+
+# Utilities
+huggingface-hub
+einops
+
+-e .
